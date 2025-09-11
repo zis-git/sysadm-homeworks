@@ -80,4 +80,8 @@ https://github.com/zis-git/devops-netology/network
 как и говорил выше - не удалось воспользоваться GitLab и Bitbucket
 
 
+<img width="3322" height="1400" alt="2025-09-11_19-04-17" src="https://github.com/user-attachments/assets/bd2b3388-9619-406f-b3e1-e354add079e8" />
+
+<img width="3366" height="1478" alt="2025-09-11_18-55-09" src="https://github.com/user-attachments/assets/80cf9b8e-6f50-46a0-870a-fed08ba84b1d" />
+
 
