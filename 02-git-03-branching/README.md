@@ -281,6 +281,14 @@ Fast-forward
  
 ----
 
+###Решение
+
+
+
+<img width="1016" height="813" alt="2025-09-12_12-19-27" src="https://github.com/user-attachments/assets/1e4b13c3-fcd0-4598-8602-48a117f5f7db" />
+https://github.com/zis-git/devops-netology/blob/hw/02-git-03-branching-base/devsys10/02-git-03-branching/REPORT.md
+
+
 ### Правила приёма домашнего задания
 
 В личном кабинете отправлена ссылка на network графика вашего репозитория.
